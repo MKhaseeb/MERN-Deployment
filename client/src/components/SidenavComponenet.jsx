@@ -18,7 +18,7 @@ import SocialComponent from "./SocialComponent";
 import { FaFacebookF, FaTwitter, FaGooglePlusG } from "react-icons/fa";
 import RatingComponent from "./RatingComponent";
 import { Link } from "react-router-dom";
-import UsersComponent from "./usersComponent";
+import UsersComponent from "./UsersComponent";
 import NavComponent from "./NavComponent";
 
 const SidenavComponenet = () => {
